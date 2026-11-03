@@ -11,3 +11,4 @@ memory
 limits
 unroll_*
 syntax
+conditionals

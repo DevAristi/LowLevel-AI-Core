@@ -1,0 +1,5 @@
+*.o
+*.out
+*.exe
+01_Memory_Layout/tipos_memoria
+.vscode/

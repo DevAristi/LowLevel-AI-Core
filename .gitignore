@@ -9,3 +9,5 @@
 *.exe
 memory
 limits
+unroll_*
+syntax

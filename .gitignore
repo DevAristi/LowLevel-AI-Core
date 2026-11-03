@@ -1,5 +1,11 @@
+# Prerequisites / IDE
+.vscode/
+
+# Compiled Object files
 *.o
+
+# Compiled Binaries & Outputs
 *.out
 *.exe
-01_Memory_Layout/tipos_memoria
-.vscode/
+memory
+limits

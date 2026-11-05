@@ -12,3 +12,4 @@ limits
 unroll_*
 syntax
 conditionals
+loops

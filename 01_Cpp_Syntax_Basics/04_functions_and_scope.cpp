@@ -18,7 +18,6 @@ int computeScale(int val, int factor){
 double computeScale(double val, double factor){
     return val * factor;
 }
-
 int main (){
     int x = 10;
     int y = 20;
@@ -32,6 +31,6 @@ int main (){
 
     std::cout << "Scale int (5 * 3): " << computeScale(5, 3) << '\n';
     std::cout << "Scale double (2.5 * 4.0): " << computeScale(2.5, 4.0) << '\n';
-    
+
     return 0;
 }

@@ -1,15 +1,13 @@
-# Prerequisites / IDE
+# IDE & Editor
 .vscode/
+
+# OS generated files (macOS)
+.DS_Store
 
 # Compiled Object files
 *.o
 
-# Compiled Binaries & Outputs
+# Compiled Binaries & Debug Symbols
 *.out
 *.exe
-memory
-limits
-unroll_*
-syntax
-conditionals
-loops
+*.dSYM/
